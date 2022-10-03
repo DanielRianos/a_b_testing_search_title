@@ -1,7 +1,7 @@
 # :man_scientist: A/B Test: Spiced search results - changing title color
 
+Spiced Academy wants to assess whether the change in the color of the link impacts the number of visits to the website coming from the Google search engine (hypothesis). 
 
-A/b testing of two different colors for the search title
+The A/B test collects data for 30 days from two sample groups: one with a purple and another with a blue link. 
 
-
-#### Disclaimer: This business case as well as the datasets were provided by Spiced Academy as part of the Data Analytics Bootcamp (July- September 2022).
+#### Disclaimer: This study case as well as the datasets were provided by Spiced Academy as part of the Data Analytics Bootcamp (July- September 2022).
