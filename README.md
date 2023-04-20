@@ -1,4 +1,4 @@
-# :man_scientist: A/B Test: Spiced search results - changing title color
+# :man_scientist: A/B/C Test: Spiced search results - changing title color
 
 Spiced Academy wants to assess whether the change in the color of the link impacts the number of visits to the website coming from the Google search engine (hypothesis). 
 
